@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David, a FullStack Web Developer {ReactJs & Python } with a keen interest in FrontEnd frameworks/libraries and everything that involves making the web beautiful, interactive and functional. You can contact me on twitter at twitter.com/UnseenDavid
+I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in FrontEnd frameworks/libraries and everything that involves making the web beautiful, interactive and functional. You can contact me on twitter at twitter.com/UnseenDavid
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObodoakorDavid)](https://github.com/anuraghazra/github-readme-stats)
 
