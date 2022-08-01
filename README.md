@@ -22,7 +22,11 @@ I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in
   </a>
 </div>
 
+## 📊 GitHub Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObodoakorDavid)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⌨️ Most Used Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObodoakorDavid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
