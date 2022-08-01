@@ -9,7 +9,11 @@ I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in
 * ReactJs
 * Python
 * Django
-* Bootstrap/React-Bootstrap
+* <a href="https://www.linkedin.com/in/david-obodoakor-369b1b235">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+
 
 ## 📱 Contact Me
 
