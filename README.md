@@ -12,7 +12,15 @@ I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in
 * Bootstrap/React-Bootstrap
 
 ## 📱 Contact Me
- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge, https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/david-obodoakor-369b1b235">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/UnseenDavid">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObodoakorDavid)](https://github.com/anuraghazra/github-readme-stats)
 
