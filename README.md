@@ -11,6 +11,9 @@ I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in
 * Django
 * Bootstrap/React-Bootstrap
 
+## 📱 Contact Me
+ https://img.shields.io/badge/LinkedIn-blue, https://img.shields.io/badge/Twitter-blue
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObodoakorDavid)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObodoakorDavid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
