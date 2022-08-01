@@ -2,7 +2,7 @@
 
 I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in FrontEnd frameworks/libraries and everything that has to do with making the web beautiful, interactive and functional. You can connect with me on twitter at https://twitter.com/UnseenDavid
 
-## Skills & Experience
+## 👨‍💻 Stack & Languages 
 * HTML
 * CSS
 * JavaScript
@@ -12,7 +12,7 @@ I'm David, a FullStack Web Developer {ReactJs & Django } with a keen interest in
 * Bootstrap/React-Bootstrap
 
 ## 📱 Contact Me
- https://img.shields.io/badge/LinkedIn-blue, https://img.shields.io/badge/Twitter-blue
+ https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge, https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObodoakorDavid)](https://github.com/anuraghazra/github-readme-stats)
 
