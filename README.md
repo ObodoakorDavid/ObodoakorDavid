@@ -13,7 +13,7 @@ If you're interested in creating something awesome or learning more about the we
 
 ## 🚀 Tech Stack & Tools I Use
 
-### 🧠 Languages & Frameworks
+### 🧠 Languages
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
